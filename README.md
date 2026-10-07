@@ -40,3 +40,5 @@ flowchart LR
   class n6_fileshare type_FILESHARE
   linkStyle default stroke:#5b6b7c,stroke-width:1.5px
 ```
+```mermaid
+info
